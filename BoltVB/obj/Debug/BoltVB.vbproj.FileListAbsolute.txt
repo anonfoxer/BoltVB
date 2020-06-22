@@ -1,0 +1,12 @@
+C:\Users\Kevin\source\repos\BoltVB\BoltVB\bin\Debug\BoltVB.exe.config
+C:\Users\Kevin\source\repos\BoltVB\BoltVB\bin\Debug\BoltVB.exe
+C:\Users\Kevin\source\repos\BoltVB\BoltVB\bin\Debug\BoltVB.pdb
+C:\Users\Kevin\source\repos\BoltVB\BoltVB\bin\Debug\BoltVB.xml
+C:\Users\Kevin\source\repos\BoltVB\BoltVB\obj\Debug\BoltVB.vbprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\BoltVB\BoltVB\obj\Debug\BoltVB.Form1.resources
+C:\Users\Kevin\source\repos\BoltVB\BoltVB\obj\Debug\BoltVB.Resources.resources
+C:\Users\Kevin\source\repos\BoltVB\BoltVB\obj\Debug\BoltVB.vbproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\BoltVB\BoltVB\obj\Debug\BoltVB.vbproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\BoltVB\BoltVB\obj\Debug\BoltVB.exe
+C:\Users\Kevin\source\repos\BoltVB\BoltVB\obj\Debug\BoltVB.xml
+C:\Users\Kevin\source\repos\BoltVB\BoltVB\obj\Debug\BoltVB.pdb
